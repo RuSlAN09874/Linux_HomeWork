@@ -1,0 +1,10 @@
+   0 touch file_info.txt
+   1 ls
+   2 date > file_info.txt 
+   3 df -h / >> file_info.txt 
+   4 history | -n 5 >> file_info.txt 
+   5 history | tail -n 5 >> file_info.txt 
+   6 cat file_info.txt 
+   7 grep "vendor" /proc/cpuinfo | sort -u >> file_info.txt 
+   8 nano file_info.txt 
+   9 history > HomeWork_3.txt
