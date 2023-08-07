@@ -1,0 +1,13 @@
+   0 touch create_files.sh
+   1 sl
+   2 ls
+   3 chmod +x create_files.sh 
+   4 ls
+   5 nano /root/create_files.sh
+   6 nano create_files.sh 
+   7 crontab -e
+   8 cd ls
+   9 ls
+  10 pwd
+  11 crontab -e
+  12 history > HomeWork_5.txt
